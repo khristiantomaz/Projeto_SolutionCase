@@ -1,0 +1,14 @@
+C:\Programas\Projeto SubArray\bin\Debug\net8.0\Projeto SubArray.exe
+C:\Programas\Projeto SubArray\bin\Debug\net8.0\Projeto SubArray.deps.json
+C:\Programas\Projeto SubArray\bin\Debug\net8.0\Projeto SubArray.runtimeconfig.json
+C:\Programas\Projeto SubArray\bin\Debug\net8.0\Projeto SubArray.dll
+C:\Programas\Projeto SubArray\bin\Debug\net8.0\Projeto SubArray.pdb
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.AssemblyInfoInputs.cache
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.AssemblyInfo.cs
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.csproj.CoreCompileInputs.cache
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.dll
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\refint\Projeto SubArray.dll
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.pdb
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\Projeto SubArray.genruntimeconfig.cache
+C:\Programas\Projeto SubArray\obj\Debug\net8.0\ref\Projeto SubArray.dll
