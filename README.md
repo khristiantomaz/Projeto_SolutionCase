@@ -34,7 +34,7 @@ Neste projetos seguimos com estas restrições onde não pode o correr:
 
 ##### considerações finais
 
-Gostaria de estar deixando minhas redes para contato, aonde falo mais sobre tecnoligia. 
+Gostaria de estar deixando minhas redes para contato, aonde falo mais sobre tecnologia. 
 
 - Email: khristiantomaz@icloud.com
 - linkedin: linkedin.com/in/khristian-tomaz/
